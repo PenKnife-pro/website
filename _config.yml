@@ -1,0 +1,11 @@
+title: PenKnife
+description: The pocket tool for your team's daily chores. Dailies, retro prep, estimates and end-of-day updates, each handled in a tap.
+url: https://penknife.pro
+baseurl: ""
+lang: en
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
